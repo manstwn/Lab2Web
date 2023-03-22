@@ -10,6 +10,6 @@ Kemudian Input Data<br/>
 ![alt text](img/ss2.png)<br/>
 
 Dan akan langsung menampilkan hasilnya<br/>
-![alt text](img/ss2.png)
+![alt text](img/ss3.png)
 
 
