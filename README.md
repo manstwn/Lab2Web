@@ -3,8 +3,8 @@ Iman Setiawan
 312110219
 TI.21.A1__
 
-Berikut tampilan kode php__
-![alt text](img/ss1.png)__
+Berikut tampilan kode php<br/>
+![alt text](img/ss1.png)<br/>
 
 Kemudian Input Data__
 ![alt text](img/ss2.png)__
